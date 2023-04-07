@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="17.0.6" class="java.beans.XMLDecoder">
+ <string>q:	The relationship between Laptop and Screen can best be categorized as
+c:	Ownership</string>
+ <string>q:	Which one of these is not a purpose of information hiding in object-oriented programming?
+c:	To protect people&apos;s personal information from hackers.</string>
+ <string>q:	The relationship between Bayonet and Weapon could best be described as
+a:	Inheritance</string>
+ <string>q:	Which of the following is not true of the relationship composition?
+b:	Other objects of the owner type can own the very same object.</string>
+ <string>q:	In the relationship between Hammer and Tool, which of the following is correct?
+b:	Hammer is the subclass, and Tool is the superclass.</string>
+ <string>q:	Which of the following is a false statement?
+d:	Usually, only one object can be built for any given class.</string>
+ <string>q:	Which of the following is false about an abstract class?
+c:	It cannot have any non-abstract functions.</string>
+ <string>q:	Why is polymorphism powerful?
+a:	It enables us to refer to related objects generally but still access specific functionality for each object.</string>
+ <string>q:	Why do we write public get and set functions?
+c:	In combination with making data private, these public functions give us a way to read and write the values of these variables in a controlled way.</string>
+ <string>q:	One problem associated with software development is rigidity, which means
+b:	It is difficult to change the code to meet changing or additional needs.</string>
+ <string>q:	Which pattern tries to make it easier to create a variety of related objects?
+c:	Factory</string>
+ <string>q:	Which pattern tries to avoid mixing the storage of data and how it is displayed?
+a:	Model-View-Controller</string>
+ <string>q:	Which pattern often uses a private constructor and static functions as part of its design?
+b:	Singleton</string>
+ <string>q:	Which pattern often uses aggregation or composition to enable an owner to perform a task by asking for help from the things it owns?
+d:	Delegation</string>
+ <string>q:	Which pattern is used particularly to ensure consistency across multiple threads?
+b:	Singleton</string>
+ <string>q:	Which concepts enable the Factory pattern to be particularly useful?
+c:	Inheritance and Polymorphism</string>
+ <string>q:	Which of the following is a false statement?
+d:	Using interfaces helps avoid violating the Liskov Substitution Principle.</string>
+ <string>q:	The Dependency Inversion Principle focuses on
+a:	The relationship between superclasses and subclasses</string>
+ <string>q:	Which principle advises us to be as focused and specific as possible in grouping together behaviors?
+c:	Single Responsibility Principle</string>
+ <string>q:	Which principle helps us avoid designing classes that try to do too much?
+b:	Interface Segregation Principle</string>
+</java>
